@@ -48,7 +48,7 @@ function App() {
 
       />
       <div style={{ display: "flex", flexDirection: "row", justifyContent: "flex-end" }}>
-        <img src="https://img.freepik.com/premium-vector/robot-icon-chat-bot-sign-support-service-concept-chatbot-character-flat-style_41737-796.jpg" style={{ height: "200px", marginLeft: "auto" }} alt="icon" />
+        <img src="https://img.freepik.com/premium-vector/robot-icon-chat-bot-sign-support-service-concept-chatbot-character-flat-style_41737-796.jpg" style={{ height: "150px", marginLeft: "auto" }} alt="icon" />
       </div>
     </div>
   );
